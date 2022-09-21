@@ -1,0 +1,1 @@
+<h2>Administrator login page</h2>
